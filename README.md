@@ -1,5 +1,5 @@
 
-# Python GUI - Simple External API [Kanye Quotes] 
+# Python GUI Application Kanye Quotes - Using External API 
 
 It's a Simple Python Script which uses Python's `Tkinter` and `requests` Packages to Implement a simple GUI Application
 
